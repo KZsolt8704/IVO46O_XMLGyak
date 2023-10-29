@@ -1,6 +1,6 @@
-<!ELEMENT mozi (film)>
-<!ELEMENT film (rendezo, szinesz, iro)>
-<!ATTLIST film id ID #REQUIRED mufaj CDATA #REQUIRED>
+<!ELEMENT mozi (film*)>
+<!ELEMENT film (rendezo+, szinesz+, iro+)>
+<!ATTLIST film id ID #REQUIRED mufaj (horror|akció|vígjáték) #REQUIRED>
 <!ELEMENT rendezo EMPTY>
 <!ATTLIST rendezo id ID #REQUIRED nev CDATA #REQUIRED>
 <!ELEMENT szinesz EMPTY>
