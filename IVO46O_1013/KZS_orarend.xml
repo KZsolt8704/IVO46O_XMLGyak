@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!DOCTYPE orarend SYSTEM "KZS_orarend.dtd">
 <orarend>
     <ora id="1">
         <targy>Adatkezelés XML-ben</targy>
