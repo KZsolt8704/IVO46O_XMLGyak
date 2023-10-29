@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orarend>
+    <ora id="1">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>2023.10.13.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+    <ora id="2">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>2023.11.03.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+    <ora id="3">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>2023.11.24.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+    <ora id="4">
+        <targy>Adatkezelés XML-ben</targy>
+        <idopont>
+            <nap>2023.12.08.</nap>
+            <tol>12:30</tol>
+            <ig>15:50</ig>
+        </idopont>
+        <helyszin>In/101</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>III. évf. Mérnök info. (BSC)</szak>
+    </ora>
+</orarend>
