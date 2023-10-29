@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE orarend SYSTEM "KZS_orarend.dtd">
 <orarend>
-    <ora id="1">
+    <ora id="L01">
         <targy>Adatkezelés XML-ben</targy>
         <idopont>
             <nap>2023.10.13.</nap>
@@ -12,7 +12,7 @@
         <oktato>Dr. Bednarik László</oktato>
         <szak>III. évf. Mérnök info. (BSC)</szak>
     </ora>
-    <ora id="2">
+    <ora id="L02">
         <targy>Adatkezelés XML-ben</targy>
         <idopont>
             <nap>2023.11.03.</nap>
@@ -23,7 +23,7 @@
         <oktato>Dr. Bednarik László</oktato>
         <szak>III. évf. Mérnök info. (BSC)</szak>
     </ora>
-    <ora id="3">
+    <ora id="L03">
         <targy>Adatkezelés XML-ben</targy>
         <idopont>
             <nap>2023.11.24.</nap>
@@ -34,7 +34,7 @@
         <oktato>Dr. Bednarik László</oktato>
         <szak>III. évf. Mérnök info. (BSC)</szak>
     </ora>
-    <ora id="4">
+    <ora id="L04">
         <targy>Adatkezelés XML-ben</targy>
         <idopont>
             <nap>2023.12.08.</nap>
